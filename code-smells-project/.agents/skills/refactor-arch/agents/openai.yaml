@@ -1,0 +1,7 @@
+interface:
+  display_name: "Refatorar Arquitetura"
+  short_description: "Audita e refatora para Model View Controller"
+  default_prompt: "Use $refactor-arch para auditar e refatorar este projeto para MVC tradicional, com domínios separados dentro de Models, Views/Routes e Controllers."
+
+policy:
+  allow_implicit_invocation: false

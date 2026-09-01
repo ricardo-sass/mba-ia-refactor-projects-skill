@@ -1,3 +1,6 @@
-from flask_sqlalchemy import SQLAlchemy
+"""Compatibilidade para consumidores antigos; o proprietário técnico está em shared."""
 
-db = SQLAlchemy()
+from shared.database import db
+
+
+__all__ = ["db"]
