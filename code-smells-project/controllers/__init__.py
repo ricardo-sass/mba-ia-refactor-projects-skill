@@ -1,0 +1,2 @@
+"""Controllers organizados por domínio."""
+

@@ -1,0 +1,2 @@
+"""Models organizados por domínio."""
+
